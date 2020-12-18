@@ -1,4 +1,7 @@
-## Haar cascade classifier successfully implemented + Mark location
+# Haar Cascade Classifier for Drone to detect Cross mark on Ground.
+All the files related to the project mentioned in this repositiry. Also one cascade.xml file is present in repo which you can use in your drone.
+
+## Haar cascade classifier Code Explain
 ### by Prasant Singh
 
 
